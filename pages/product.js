@@ -1,0 +1,1 @@
+export default () => <div>Hello from the product page</div>
