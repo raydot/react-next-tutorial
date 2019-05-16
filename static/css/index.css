@@ -89,7 +89,7 @@ ul.header, .header, .navTop, .columns {
 }
 
 .logo {
-	background-image: url(../img/beyond-napa-logo-2x.png);
+	background-image: url(/static/img/beyond-napa-logo-2x.png);
 	background-size: 178px 19px;
 	background-repeat: no-repeat;
 	width: 178px;
@@ -663,7 +663,7 @@ section {
 /* Social Media Icons */
 
 a.facebook {
-	background: url('../img/social-media-icons.png') no-repeat top left;
+	background: url('/static/img/social-media-icons.png') no-repeat top left;
 	width: 13px;
 	height: 23px;
 	display: block;
